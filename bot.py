@@ -9,7 +9,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.getenv("8621874021:AAF7nHGqnL7LGI9sQlxSZATrany7SX5pRtE")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 BASE_DIR = Path(__file__).resolve().parent
 
